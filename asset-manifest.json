@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-practice_movie-app-2020/static/css/main.d9de3c2f.chunk.css",
+    "main.js": "/react-practice_movie-app-2020/static/js/main.c2ab53b0.chunk.js",
+    "main.js.map": "/react-practice_movie-app-2020/static/js/main.c2ab53b0.chunk.js.map",
+    "runtime-main.js": "/react-practice_movie-app-2020/static/js/runtime-main.62b2a8ab.js",
+    "runtime-main.js.map": "/react-practice_movie-app-2020/static/js/runtime-main.62b2a8ab.js.map",
+    "static/js/2.30efaec6.chunk.js": "/react-practice_movie-app-2020/static/js/2.30efaec6.chunk.js",
+    "static/js/2.30efaec6.chunk.js.map": "/react-practice_movie-app-2020/static/js/2.30efaec6.chunk.js.map",
+    "index.html": "/react-practice_movie-app-2020/index.html",
+    "precache-manifest.9d67ac09d0e20082c9e0359eb74b0dfd.js": "/react-practice_movie-app-2020/precache-manifest.9d67ac09d0e20082c9e0359eb74b0dfd.js",
+    "service-worker.js": "/react-practice_movie-app-2020/service-worker.js",
+    "static/css/main.d9de3c2f.chunk.css.map": "/react-practice_movie-app-2020/static/css/main.d9de3c2f.chunk.css.map",
+    "static/js/2.30efaec6.chunk.js.LICENSE.txt": "/react-practice_movie-app-2020/static/js/2.30efaec6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62b2a8ab.js",
+    "static/js/2.30efaec6.chunk.js",
+    "static/css/main.d9de3c2f.chunk.css",
+    "static/js/main.c2ab53b0.chunk.js"
+  ]
+}
